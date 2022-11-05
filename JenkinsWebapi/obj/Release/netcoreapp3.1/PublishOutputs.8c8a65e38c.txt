@@ -1,0 +1,7 @@
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebapi.exe
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebapi.dll
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebapi.deps.json
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebapi.runtimeconfig.json
+D:\MCC\poc\JenkinsWebapi\JenkinsWebapi\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebapi.pdb
